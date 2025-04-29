@@ -1,6 +1,6 @@
 {
   "name": "stocknow.xyz-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Official Node.js SDK for StockNow — access company news, earnings, analyst ratings, and AI insights.",
   "main": "index.js",
   "scripts": {
