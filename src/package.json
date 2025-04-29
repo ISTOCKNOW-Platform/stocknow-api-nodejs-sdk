@@ -23,6 +23,7 @@
     "url": "https://github.com/ISTOCKNOW-Platform/stocknow-api-nodejs-sdk/issues"
   },
   "dependencies": {
+    "axios": "^1.9.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {

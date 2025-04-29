@@ -1,6 +1,5 @@
 // example.js - Sample usage of the API caller package
-
-const { callApiAndDump, listNews } = require('../src/index'); // Or require('your-package-name') if published
+import { listNews } from 'stocknow.xyz-sdk';
 
 // List news of given ticker
 async function fetchNews(apiKey) {
