@@ -12,7 +12,7 @@
   "license": "Apache Software License",
   "description": "NodeJS programming interface for read StockNow platform marketing data and insights.",
   "dependencies": {
-    "axios": "^1.8.4",
+    "axios": "^1.9.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
   }
