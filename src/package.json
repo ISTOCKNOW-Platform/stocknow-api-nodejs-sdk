@@ -1,19 +1,36 @@
 {
-  "name": "@stocknow/api-client",
-  "version": "1.0.0",
+  "name": "stocknow.xyz-sdk",
+  "version": "0.0.2",
+  "description": "Official Node.js SDK for StockNow — access company news, earnings, analyst ratings, and AI insights.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "StockNowAdmin"
+    "stocknow",
+    "data",
+    "javascript",
+    "api",
+    "sdk"
   ],
-  "author": "",
+  "author": "haoweiq@stocknow.xyz",
   "license": "Apache Software License",
-  "description": "NodeJS programming interface for read StockNow platform marketing data and insights.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISTOCKNOW-Platform/stocknow-api-nodejs-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ISTOCKNOW-Platform/stocknow-api-nodejs-sdk/issues"
+  },
   "dependencies": {
-    "axios": "^1.9.0",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7"
-  }
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "files": [
+    "index.js",
+    "../README.md",
+    "../LICENSE"
+  ]
 }
