@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stocknow.xyz-sdk": "^0.0.4"
+  }
+}
